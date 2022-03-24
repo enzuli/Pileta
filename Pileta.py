@@ -3,10 +3,6 @@ import datetime
 import PySimpleGUI as sg
 import pickle
 
-#https://github.com/PySimpleGUI/PySimpleGUI/issues/362 hacer funcion
-# para crear los layouts de forma individual y asignarlo cada vez que lo vaya a usar
-
-
 class Alumnos:
 
     def __init__(self):
